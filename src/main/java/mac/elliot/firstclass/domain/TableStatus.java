@@ -11,7 +11,7 @@ public enum TableStatus {
     this.table2Value = table2Value;
   }
 
-  public String getTableValue() {
+  public String getTable1Value() {
     return table1Value;
   }
 
